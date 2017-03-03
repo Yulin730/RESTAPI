@@ -1,0 +1,5 @@
+package org.yulin.test.data.service;
+
+public class MessageService {
+
+}

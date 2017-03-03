@@ -1,0 +1,5 @@
+package org.yulin.test.data.model;
+
+public class Message {
+
+}

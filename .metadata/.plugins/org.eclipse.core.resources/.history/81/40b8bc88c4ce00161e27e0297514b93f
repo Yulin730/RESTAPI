@@ -1,0 +1,5 @@
+package org.yulin.test.data.resources;
+
+public class MessageResource {
+
+}
